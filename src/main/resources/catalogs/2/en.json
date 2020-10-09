@@ -1,0 +1,2186 @@
+[
+  {
+    "id": 43,
+    "name": "Aortic dissection",
+    "types": [
+      {
+        "id": 141,
+        "name": "Type I",
+        "sketchfabs": [
+          {
+            "id": 423,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/a1-vessel-8f5d78b5d60c49f89c3e354356a2ccbe",
+            "thumbnail": "https://media.sketchfab.com/models/8f5d78b5d60c49f89c3e354356a2ccbe/thumbnails/75c0ea2ca0584ec5acead44e176e0ba3/7f5b4a87835a485bb498c4c576ffeb21.jpeg"
+          },
+          {
+            "id": 424,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 425,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 142,
+        "name": "Type II",
+        "sketchfabs": [
+          {
+            "id": 426,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/a2-vessel-c5f1718e84374af6b914079b7b361143",
+            "thumbnail": "https://media.sketchfab.com/models/c5f1718e84374af6b914079b7b361143/thumbnails/1ae28d5a02ca407bac847b956465d786/66391e1e7157428aa83483ac8ef10c59.jpeg"
+          },
+          {
+            "id": 427,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 428,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 143,
+        "name": "Type III",
+        "sketchfabs": [
+          {
+            "id": 429,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/a3-vessel-85f4c9130c524291bd61d09533d72be6",
+            "thumbnail": "https://media.sketchfab.com/models/85f4c9130c524291bd61d09533d72be6/thumbnails/2daa7a0dd4664832bc481e1fb28805d0/8bec3753c806456e91b5d6686d306377.jpeg"
+          },
+          {
+            "id": 430,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 431,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Thoracic aoric aneurysms",
+    "types": [
+      {
+        "id": 144,
+        "name": "Ascending aortic aneurysms",
+        "sketchfabs": [
+          {
+            "id": 432,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/b1-vessel-848de3283a96461a92cc873745e661e8",
+            "thumbnail": "https://media.sketchfab.com/models/848de3283a96461a92cc873745e661e8/thumbnails/533e72c7ca5f4ea9bf64d21e0eda8d28/f7756e56723742da9a4fe6b4ca0182a6.jpeg"
+          },
+          {
+            "id": 433,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 434,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 145,
+        "name": "Aortic arch aneurysms",
+        "sketchfabs": [
+          {
+            "id": 435,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/b2-vessel-54f55ea4c50a4fd5b8f346cb95eb41f4",
+            "thumbnail": "https://media.sketchfab.com/models/54f55ea4c50a4fd5b8f346cb95eb41f4/thumbnails/21df8e76d1d0480fac649e38bfda0e37/06507f34ba3b4af9adc0662bc6e4048a.jpeg"
+          },
+          {
+            "id": 436,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 437,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "name": "Descending aortic aneurysms",
+        "sketchfabs": [
+          {
+            "id": 438,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/b3-vessel-e4acf59d75b4495e8a1f5536a32722a2",
+            "thumbnail": "https://media.sketchfab.com/models/e4acf59d75b4495e8a1f5536a32722a2/thumbnails/9aca0da37c38457e88cadc89263e17be/8986e19eed8846498b68e9c660ca46a2.jpeg"
+          },
+          {
+            "id": 439,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 440,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Abdominal aortic anurysms",
+    "types": [
+      {
+        "id": 147,
+        "name": "Infrarenal",
+        "sketchfabs": [
+          {
+            "id": 441,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/c1-vessel-43c95ba6ec7a439b8e9465a09969c01f",
+            "thumbnail": "https://media.sketchfab.com/models/43c95ba6ec7a439b8e9465a09969c01f/thumbnails/29291b2ea0654e4ea2fe0c6780d638fb/f65c967a220f46fbab8aa2c55342cb8c.jpeg"
+          },
+          {
+            "id": 442,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 443,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 148,
+        "name": "Juxtarenal",
+        "sketchfabs": [
+          {
+            "id": 444,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/c2-vessel-33eb5393889d44f2ab93ce4943d13366",
+            "thumbnail": "https://media.sketchfab.com/models/33eb5393889d44f2ab93ce4943d13366/thumbnails/4d0102eb2f184d59a49089a388fe2d4d/477e68a2089d497c89bfa73de4449be0.jpeg"
+          },
+          {
+            "id": 445,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 446,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 149,
+        "name": "Pararenal",
+        "sketchfabs": [
+          {
+            "id": 447,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/c3-vessel-8fd55cadd05542a89c4df29dfa6585c1",
+            "thumbnail": "https://media.sketchfab.com/models/8fd55cadd05542a89c4df29dfa6585c1/thumbnails/34363cdfe8044614bd1df8f3975427d1/11463f46ee6e434cb3c44f5de1792d12.jpeg"
+          },
+          {
+            "id": 448,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 449,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 150,
+        "name": "Suprarenal",
+        "sketchfabs": [
+          {
+            "id": 450,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/c4-vessel-9aa1f2bd858b4e8799b4adc6cd6a65af",
+            "thumbnail": "https://media.sketchfab.com/models/9aa1f2bd858b4e8799b4adc6cd6a65af/thumbnails/0358250520364a1fa7c2db49286e7ab0/fefc315b903042e8b2ca56c87e2cbc71.jpeg"
+          },
+          {
+            "id": 451,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 452,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Thoracoabdominal aortic aneurysms",
+    "types": [
+      {
+        "id": 151,
+        "name": "Type I",
+        "sketchfabs": [
+          {
+            "id": 453,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/d1-vessel-8d626cd2f75c47d683078890e195d33f",
+            "thumbnail": "https://media.sketchfab.com/models/8d626cd2f75c47d683078890e195d33f/thumbnails/bc70b479e189433083e54c4b67217ebd/4841481f0d4f47ae81cfb55fe7c63af8.jpeg"
+          },
+          {
+            "id": 454,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 455,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "name": "Type II",
+        "sketchfabs": [
+          {
+            "id": 456,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/d2-vessel-d504472c167f4c38ba09373dbebd5da6",
+            "thumbnail": "https://media.sketchfab.com/models/d504472c167f4c38ba09373dbebd5da6/thumbnails/0c6e8b867e6649fea16d1e0601df11c4/f130ebaac13349479a78dbf02aff177f.jpeg"
+          },
+          {
+            "id": 457,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 458,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "name": "Type III",
+        "sketchfabs": [
+          {
+            "id": 459,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/d3-vessel-fc8f322aec054eeda119b4ee5fb94aea",
+            "thumbnail": "https://media.sketchfab.com/models/fc8f322aec054eeda119b4ee5fb94aea/thumbnails/d95a3ce5fc334811981d26bd7a3b040f/72305734a5bb443ebac072d7e54436ab.jpeg"
+          },
+          {
+            "id": 460,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 461,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 154,
+        "name": "Type IV",
+        "sketchfabs": [
+          {
+            "id": 462,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/d4-vessel-ed45bf0538304b068cd2177587ef1bfe",
+            "thumbnail": "https://media.sketchfab.com/models/ed45bf0538304b068cd2177587ef1bfe/thumbnails/ee6aaf64f67a48fcaee319c817b87bfc/22db818c943c47d1aebb4620909a83b1.jpeg"
+          },
+          {
+            "id": 463,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 464,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Aneurysms according on type of form",
+    "types": [
+      {
+        "id": 155,
+        "name": "Saccular ",
+        "sketchfabs": [
+          {
+            "id": 465,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/e1-g1-8cf800b61964466c9940f8c22947c3b5",
+            "thumbnail": "https://media.sketchfab.com/models/8cf800b61964466c9940f8c22947c3b5/thumbnails/bf14ef1f49504b5198442ced490373c4/5592380a28fd482facf02978f8fd81c1.jpeg"
+          },
+          {
+            "id": 466,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 467,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 156,
+        "name": "Fusiform",
+        "sketchfabs": [
+          {
+            "id": 468,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/e2-f1-vessel-20e7d52a9cb04ae2a993ff81e8301ecb",
+            "thumbnail": "https://media.sketchfab.com/models/20e7d52a9cb04ae2a993ff81e8301ecb/thumbnails/df37ce6c3dbf4d7b93f2760c3e4e1877/0571fd66a5574d6eae106ce66a346673.jpeg"
+          },
+          {
+            "id": 469,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 470,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Aneurysms according on type of morphology",
+    "types": [
+      {
+        "id": 157,
+        "name": "True aneurysm",
+        "sketchfabs": [
+          {
+            "id": 471,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/e2-f1-vessel-20e7d52a9cb04ae2a993ff81e8301ecb",
+            "thumbnail": "https://media.sketchfab.com/models/20e7d52a9cb04ae2a993ff81e8301ecb/thumbnails/df37ce6c3dbf4d7b93f2760c3e4e1877/0571fd66a5574d6eae106ce66a346673.jpeg"
+          },
+          {
+            "id": 472,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 473,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 158,
+        "name": "False aneurysm",
+        "sketchfabs": [
+          {
+            "id": 474,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/f2-vessel-b54bbc9d79734f768d52cc7361940756",
+            "thumbnail": "https://media.sketchfab.com/models/b54bbc9d79734f768d52cc7361940756/thumbnails/c798c916f6424acaa78efbe5ac6bb064/780c6b0d21d643d38eb76ab88f9fb613.jpeg"
+          },
+          {
+            "id": 475,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 476,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 159,
+        "name": "Dissected aneurysm",
+        "sketchfabs": [
+          {
+            "id": 477,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/f3-vessel-5ce8ef62b501497f849bb7565d877df8",
+            "thumbnail": "https://media.sketchfab.com/models/5ce8ef62b501497f849bb7565d877df8/thumbnails/5eaa43de28684fe3a7534b99160e6923/711af4c24d6e482d9253c8b5863c529b.jpeg"
+          },
+          {
+            "id": 478,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 479,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Aneurysms of aortic arch branches",
+    "types": [
+      {
+        "id": 160,
+        "name": "Internal carotid artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 480,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g1-g4-g8-vessels-062875cd98ac405f8faadb1f6080f019",
+            "thumbnail": "https://media.sketchfab.com/models/062875cd98ac405f8faadb1f6080f019/thumbnails/e77da97ed18a47e2a7a6c98095782e3a/34dddbb163454086a8af43cab2e86413.jpeg"
+          },
+          {
+            "id": 481,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 482,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 161,
+        "name": "Common carotid artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 483,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g1-g4-g8-vessels-062875cd98ac405f8faadb1f6080f019",
+            "thumbnail": "https://media.sketchfab.com/models/062875cd98ac405f8faadb1f6080f019/thumbnails/e77da97ed18a47e2a7a6c98095782e3a/34dddbb163454086a8af43cab2e86413.jpeg"
+          },
+          {
+            "id": 484,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 485,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 162,
+        "name": "Subclavian artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 486,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g1-g4-g8-vessels-062875cd98ac405f8faadb1f6080f019",
+            "thumbnail": "https://media.sketchfab.com/models/062875cd98ac405f8faadb1f6080f019/thumbnails/e77da97ed18a47e2a7a6c98095782e3a/34dddbb163454086a8af43cab2e86413.jpeg"
+          },
+          {
+            "id": 487,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 488,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 163,
+        "name": "Innominate artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 489,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g1-g4-g8-vessels-062875cd98ac405f8faadb1f6080f019",
+            "thumbnail": "https://media.sketchfab.com/models/062875cd98ac405f8faadb1f6080f019/thumbnails/e77da97ed18a47e2a7a6c98095782e3a/34dddbb163454086a8af43cab2e86413.jpeg"
+          },
+          {
+            "id": 490,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 491,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Aneurysms of upper limb arteries",
+    "types": [
+      {
+        "id": 164,
+        "name": "Axillary artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 492,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g5-vessel-38622a80d6cd4a97a29cb9afc8064ddc",
+            "thumbnail": "https://media.sketchfab.com/models/38622a80d6cd4a97a29cb9afc8064ddc/thumbnails/c96c393440d3499680e7aff360b50f8d/23bebbdd69144904b3622a2d5bcbbba4.jpeg"
+          },
+          {
+            "id": 493,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 494,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 165,
+        "name": "Brachial artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 495,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g6-vessel-ae1cfcc247d24db79ed916b3d74baeba",
+            "thumbnail": "https://media.sketchfab.com/models/ae1cfcc247d24db79ed916b3d74baeba/thumbnails/8b24e03107e647d68d4feab1b7836bba/aa70e08f2f9c454e889dc0c42af6134a.jpeg"
+          },
+          {
+            "id": 496,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 497,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 166,
+        "name": "Ulnar artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 498,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g7-vessel-249a81e048104a8fad069c3eba6b9361",
+            "thumbnail": "https://media.sketchfab.com/models/249a81e048104a8fad069c3eba6b9361/thumbnails/f9c9678cbde64c4ba0dfad535ebb8562/5373df652a784bfd9b9a9386e5eb4342.jpeg"
+          },
+          {
+            "id": 499,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 500,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Iliac artery aneurysm",
+    "types": [
+      {
+        "id": 167,
+        "name": "Iliac artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 501,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g1-g4-g8-vessels-062875cd98ac405f8faadb1f6080f019",
+            "thumbnail": "https://media.sketchfab.com/models/062875cd98ac405f8faadb1f6080f019/thumbnails/e77da97ed18a47e2a7a6c98095782e3a/34dddbb163454086a8af43cab2e86413.jpeg"
+          },
+          {
+            "id": 502,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 503,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Aneurysms of lower limb arteries",
+    "types": [
+      {
+        "id": 168,
+        "name": "Femoral artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 504,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g9-vessel-2c6f0690bf0544e0bcecf98e13e71929",
+            "thumbnail": "https://media.sketchfab.com/models/2c6f0690bf0544e0bcecf98e13e71929/thumbnails/5dccb29f199c471594490993b81e4f20/a483767bff4649dbabac0c7cbd58128d.jpeg"
+          },
+          {
+            "id": 505,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 506,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 169,
+        "name": "Femoral profundal artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 507,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g10-vessel-1f6ad3fd817a499bac1d51c6e639c497",
+            "thumbnail": "https://media.sketchfab.com/models/1f6ad3fd817a499bac1d51c6e639c497/thumbnails/ea9cff53d56343a3beffae4f26c4daf2/729b0bc549bb4659a4a677fad1377112.jpeg"
+          },
+          {
+            "id": 508,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 509,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 170,
+        "name": "Popliteal artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 510,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g11-vessel-86004c289f0d48b3b1ce7b8392a1eef0",
+            "thumbnail": "https://media.sketchfab.com/models/86004c289f0d48b3b1ce7b8392a1eef0/thumbnails/d71a84f8fc654e79835000faf0cdbacd/9e9a277edacc44e388e263d356dfc1b7.jpeg"
+          },
+          {
+            "id": 511,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 512,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Aneurysms of visceral branches of abdominal aorta",
+    "types": [
+      {
+        "id": 171,
+        "name": "Truncus coeliacus aneurysm",
+        "sketchfabs": [
+          {
+            "id": 513,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g12-16-vessels-543ba74dcfe74b14b6f5c63a7f1a148c",
+            "thumbnail": "https://media.sketchfab.com/models/543ba74dcfe74b14b6f5c63a7f1a148c/thumbnails/07e82e6261b2493aaf5517be8a33b552/68bca5eca33f475da5a42c7b0d3e159d.jpeg"
+          },
+          {
+            "id": 514,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 515,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 172,
+        "name": "Mesenterical superior artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 516,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g12-16-vessels-543ba74dcfe74b14b6f5c63a7f1a148c",
+            "thumbnail": "https://media.sketchfab.com/models/543ba74dcfe74b14b6f5c63a7f1a148c/thumbnails/07e82e6261b2493aaf5517be8a33b552/68bca5eca33f475da5a42c7b0d3e159d.jpeg"
+          },
+          {
+            "id": 517,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 518,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 173,
+        "name": "Common hepatic artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 519,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g12-16-vessels-543ba74dcfe74b14b6f5c63a7f1a148c",
+            "thumbnail": "https://media.sketchfab.com/models/543ba74dcfe74b14b6f5c63a7f1a148c/thumbnails/07e82e6261b2493aaf5517be8a33b552/68bca5eca33f475da5a42c7b0d3e159d.jpeg"
+          },
+          {
+            "id": 520,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 521,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 174,
+        "name": "Lienalis artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 522,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g12-16-vessels-543ba74dcfe74b14b6f5c63a7f1a148c",
+            "thumbnail": "https://media.sketchfab.com/models/543ba74dcfe74b14b6f5c63a7f1a148c/thumbnails/07e82e6261b2493aaf5517be8a33b552/68bca5eca33f475da5a42c7b0d3e159d.jpeg"
+          },
+          {
+            "id": 523,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 524,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "name": "Renal artery aneurysm",
+        "sketchfabs": [
+          {
+            "id": 525,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/g12-16-vessels-543ba74dcfe74b14b6f5c63a7f1a148c",
+            "thumbnail": "https://media.sketchfab.com/models/543ba74dcfe74b14b6f5c63a7f1a148c/thumbnails/07e82e6261b2493aaf5517be8a33b552/68bca5eca33f475da5a42c7b0d3e159d.jpeg"
+          },
+          {
+            "id": 526,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 527,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Atherosclerosis of aortic arch branches",
+    "types": [
+      {
+        "id": 176,
+        "name": "Innominate artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 528,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h1-vessel-d40ce15c00684f76b1bbc3f17a7ffcec",
+            "thumbnail": "https://media.sketchfab.com/models/d40ce15c00684f76b1bbc3f17a7ffcec/thumbnails/51c5953ac77a496d8260d2fd4e02be4a/a752114f8e0b47a7a2c9d44f5bb19b85.jpeg"
+          },
+          {
+            "id": 529,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 530,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 177,
+        "name": "Innominate artery and common carotid arteries atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 531,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h1-vessel-d40ce15c00684f76b1bbc3f17a7ffcec",
+            "thumbnail": "https://media.sketchfab.com/models/d40ce15c00684f76b1bbc3f17a7ffcec/thumbnails/51c5953ac77a496d8260d2fd4e02be4a/a752114f8e0b47a7a2c9d44f5bb19b85.jpeg"
+          },
+          {
+            "id": 532,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 533,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 178,
+        "name": "Common carotid arteru bifurcation atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 534,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h1-vessel-d40ce15c00684f76b1bbc3f17a7ffcec",
+            "thumbnail": "https://media.sketchfab.com/models/d40ce15c00684f76b1bbc3f17a7ffcec/thumbnails/51c5953ac77a496d8260d2fd4e02be4a/a752114f8e0b47a7a2c9d44f5bb19b85.jpeg"
+          },
+          {
+            "id": 535,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 536,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 179,
+        "name": "Internal carotis artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 537,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h1-vessel-d40ce15c00684f76b1bbc3f17a7ffcec",
+            "thumbnail": "https://media.sketchfab.com/models/d40ce15c00684f76b1bbc3f17a7ffcec/thumbnails/51c5953ac77a496d8260d2fd4e02be4a/a752114f8e0b47a7a2c9d44f5bb19b85.jpeg"
+          },
+          {
+            "id": 538,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 539,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 180,
+        "name": "Vertebral artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 540,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h5-vessel-5dc002e075a64f44a1b5db173cb657a1",
+            "thumbnail": "https://media.sketchfab.com/models/5dc002e075a64f44a1b5db173cb657a1/thumbnails/43cf2be29c864de19312a670efc40015/790d232f87a44aa38215ab07fe95c3fc.jpeg"
+          },
+          {
+            "id": 541,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 542,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Atherosclerosis of iliac arteries",
+    "types": [
+      {
+        "id": 181,
+        "name": "Terminal aorta and iliac arteries atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 543,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h6-7-8-9-10-604f7d55ab6a48f1a79fdae409259b9d",
+            "thumbnail": "https://media.sketchfab.com/models/604f7d55ab6a48f1a79fdae409259b9d/thumbnails/846694ab086f4e8aae9e1c4e198e48f4/2384792819d8498ba0e18598a3b0041f.jpeg"
+          },
+          {
+            "id": 544,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 545,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 182,
+        "name": "Terminal aorta, iliac and renal arteries atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 546,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h6-7-8-9-10-604f7d55ab6a48f1a79fdae409259b9d",
+            "thumbnail": "https://media.sketchfab.com/models/604f7d55ab6a48f1a79fdae409259b9d/thumbnails/846694ab086f4e8aae9e1c4e198e48f4/2384792819d8498ba0e18598a3b0041f.jpeg"
+          },
+          {
+            "id": 547,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 548,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 183,
+        "name": "Common iliac artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 549,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h6-7-8-9-10-604f7d55ab6a48f1a79fdae409259b9d",
+            "thumbnail": "https://media.sketchfab.com/models/604f7d55ab6a48f1a79fdae409259b9d/thumbnails/846694ab086f4e8aae9e1c4e198e48f4/2384792819d8498ba0e18598a3b0041f.jpeg"
+          },
+          {
+            "id": 550,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 551,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 184,
+        "name": "External iliac artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 552,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h6-7-8-9-10-604f7d55ab6a48f1a79fdae409259b9d",
+            "thumbnail": "https://media.sketchfab.com/models/604f7d55ab6a48f1a79fdae409259b9d/thumbnails/846694ab086f4e8aae9e1c4e198e48f4/2384792819d8498ba0e18598a3b0041f.jpeg"
+          },
+          {
+            "id": 553,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 554,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Atherosclerosis of visceral branches of abdominal aorta",
+    "types": [
+      {
+        "id": 185,
+        "name": "Renal arteries atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 555,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h6-7-8-9-10-604f7d55ab6a48f1a79fdae409259b9d",
+            "thumbnail": "https://media.sketchfab.com/models/604f7d55ab6a48f1a79fdae409259b9d/thumbnails/846694ab086f4e8aae9e1c4e198e48f4/2384792819d8498ba0e18598a3b0041f.jpeg"
+          },
+          {
+            "id": 556,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 557,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Atherosclerosis of lower limb arteries",
+    "types": [
+      {
+        "id": 186,
+        "name": "Common femoral artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 558,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h11-vessel-782c5526ffd84fa494e75a5620574728",
+            "thumbnail": "https://media.sketchfab.com/models/782c5526ffd84fa494e75a5620574728/thumbnails/5dd2b45c88b94d6bac7939079fa313bf/9a923d2b2f7b467990d09ce9db92ddad.jpeg"
+          },
+          {
+            "id": 559,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 560,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 187,
+        "name": "Femoral profundal artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 561,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h12-vessel-17a826cd8709489c8af8499807dd3859",
+            "thumbnail": "https://media.sketchfab.com/models/17a826cd8709489c8af8499807dd3859/thumbnails/18d6988e52b0413abde3c14c3385e205/e6928e70c9a04db18d944e2f543b15c2.jpeg"
+          },
+          {
+            "id": 562,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 563,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 188,
+        "name": "Superficialis femoral artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 564,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h13-vessel-0fac171a595d4210ad59b5ff3365fbdd",
+            "thumbnail": "https://media.sketchfab.com/models/0fac171a595d4210ad59b5ff3365fbdd/thumbnails/026f9e3d33ac404a8e4edce7a228894c/e0c5570e8a4f4a888f8e187b4a964f11.jpeg"
+          },
+          {
+            "id": 565,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 566,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 189,
+        "name": "Popliteal artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 567,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h14-ac78a9be78b44c7f898e7d0702cdd003",
+            "thumbnail": "https://media.sketchfab.com/models/ac78a9be78b44c7f898e7d0702cdd003/thumbnails/e7915a76cfde4507838433b99a065a6f/3d7a6a8136bf4408b194ede8983dd6fa.jpeg"
+          },
+          {
+            "id": 568,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 569,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 190,
+        "name": "Popliteal and superficial femoral arteries atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 570,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h15-c9aa1df1437643579832d28924cfe4d3",
+            "thumbnail": "https://media.sketchfab.com/models/c9aa1df1437643579832d28924cfe4d3/thumbnails/8b4b2456e26b4f7e84dba716a0eae83e/7a7c09a28d2e4c4ea43c09b44381b653.jpeg"
+          },
+          {
+            "id": 571,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 572,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 191,
+        "name": "Tibialis posterior artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 573,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h16-01eb138916514ab0843d853723b1aa01",
+            "thumbnail": "https://media.sketchfab.com/models/01eb138916514ab0843d853723b1aa01/thumbnails/a563118331494013b3d9d022c40b740a/0da29644bef9476094ae2b6a9ece8750.jpeg"
+          },
+          {
+            "id": 574,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 575,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 192,
+        "name": "Fibularis artery atheroslerosis",
+        "sketchfabs": [
+          {
+            "id": 576,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h17-e39ddbd5a4db4beba3075a8a4237a663",
+            "thumbnail": "https://media.sketchfab.com/models/e39ddbd5a4db4beba3075a8a4237a663/thumbnails/85614fb292c04421b0b27d410d4f9a46/80c3db2e31c64635b1522d0dfbbf513f.jpeg"
+          },
+          {
+            "id": 577,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 578,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 193,
+        "name": "Tibialis anterior artery atherosclerosis",
+        "sketchfabs": [
+          {
+            "id": 579,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/h18-4e9cf582e7854f42bc59ad5df4608649",
+            "thumbnail": "https://media.sketchfab.com/models/4e9cf582e7854f42bc59ad5df4608649/thumbnails/fe8fb3cef7b444af81b53c9bdfe5f9f6/aae2bfe40ea04262a12b1328f8cbbdd7.jpeg"
+          },
+          {
+            "id": 580,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 581,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Subclavian artery thrombosis",
+    "types": [
+      {
+        "id": 194,
+        "name": "Subclavian artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 582,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i1-vessel-05d8821da6d04795a3889889d1fe48a8",
+            "thumbnail": "https://media.sketchfab.com/models/05d8821da6d04795a3889889d1fe48a8/thumbnails/5d4ebe07c6064f85904d95d0e2642439/b3b0552d83b2456a85af1b88dee01b9d.jpeg"
+          },
+          {
+            "id": 583,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 584,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Upper limb arteries thrombosis",
+    "types": [
+      {
+        "id": 195,
+        "name": "Axillaris artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 585,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i2-vessel-dd9b9c50cd05412982c826fc6039f76f",
+            "thumbnail": "https://media.sketchfab.com/models/dd9b9c50cd05412982c826fc6039f76f/thumbnails/7af31e26772748898c22a2666a651562/fc21ea9862e24e53a7dd01be906b5545.jpeg"
+          },
+          {
+            "id": 586,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 587,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 196,
+        "name": "Brachialis artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 588,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i3-vessel-672e197278674368b2f4028d03b39d41",
+            "thumbnail": "https://media.sketchfab.com/models/672e197278674368b2f4028d03b39d41/thumbnails/dd9b17174c3a4a218654d2306bd1e06d/b4e600df018a47bdbfe580ed714168a7.jpeg"
+          },
+          {
+            "id": 589,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 590,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 197,
+        "name": "Radialis artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 591,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i4-vessel-cff66f82c6614217aeeb181c18366176",
+            "thumbnail": "https://media.sketchfab.com/models/cff66f82c6614217aeeb181c18366176/thumbnails/40062d7edefd4743b4322224a88a96a9/371edfc8f64c4f499db252d36c42a6a7.jpeg"
+          },
+          {
+            "id": 592,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 593,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 198,
+        "name": "Ulnaris artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 594,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i5-vessel-cd821e2bdd5643a194eee37d20c8ff51",
+            "thumbnail": "https://media.sketchfab.com/models/cd821e2bdd5643a194eee37d20c8ff51/thumbnails/4cf21f9de75541ecab0cd9d94a0f634e/745c29f551bd44689d9373fe5b75aeb4.jpeg"
+          },
+          {
+            "id": 595,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 596,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Thrombosis of visceral branches of abdominal aorta",
+    "types": [
+      {
+        "id": 199,
+        "name": "Truncus coeliacus thrombosis",
+        "sketchfabs": [
+          {
+            "id": 597,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i6-vessel-0c75f93337d64794b5de5d0433ae73ab",
+            "thumbnail": "https://media.sketchfab.com/models/0c75f93337d64794b5de5d0433ae73ab/thumbnails/661afa6276cd4dedbf32afb2d6ac05d6/a8b7a0daaf1347d486bb81e7f5ba8a93.jpeg"
+          },
+          {
+            "id": 598,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 599,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 200,
+        "name": "Inferiof mesenteric artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 600,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i6-vessel-0c75f93337d64794b5de5d0433ae73ab",
+            "thumbnail": "https://media.sketchfab.com/models/0c75f93337d64794b5de5d0433ae73ab/thumbnails/661afa6276cd4dedbf32afb2d6ac05d6/a8b7a0daaf1347d486bb81e7f5ba8a93.jpeg"
+          },
+          {
+            "id": 601,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 602,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 201,
+        "name": "Superior mesenteric artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 603,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i6-vessel-0c75f93337d64794b5de5d0433ae73ab",
+            "thumbnail": "https://media.sketchfab.com/models/0c75f93337d64794b5de5d0433ae73ab/thumbnails/661afa6276cd4dedbf32afb2d6ac05d6/a8b7a0daaf1347d486bb81e7f5ba8a93.jpeg"
+          },
+          {
+            "id": 604,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 605,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Aortic bifurcation thrombosis",
+        "sketchfabs": [
+          {
+            "id": 606,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i6-vessel-0c75f93337d64794b5de5d0433ae73ab",
+            "thumbnail": "https://media.sketchfab.com/models/0c75f93337d64794b5de5d0433ae73ab/thumbnails/661afa6276cd4dedbf32afb2d6ac05d6/a8b7a0daaf1347d486bb81e7f5ba8a93.jpeg"
+          },
+          {
+            "id": 607,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 608,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Iliac artery thrombosis",
+    "types": [
+      {
+        "id": 203,
+        "name": "Iliac artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 609,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i6-vessel-0c75f93337d64794b5de5d0433ae73ab",
+            "thumbnail": "https://media.sketchfab.com/models/0c75f93337d64794b5de5d0433ae73ab/thumbnails/661afa6276cd4dedbf32afb2d6ac05d6/a8b7a0daaf1347d486bb81e7f5ba8a93.jpeg"
+          },
+          {
+            "id": 610,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 611,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Lower limb arteries thrombosis",
+    "types": [
+      {
+        "id": 204,
+        "name": "Femoral artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 612,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i10-vessel-ed80a165c16841a38914bde3d1732b85",
+            "thumbnail": "https://media.sketchfab.com/models/ed80a165c16841a38914bde3d1732b85/thumbnails/8bf5da55f5a8406198f6d01588a63c34/b53c87295d394ff7904fa146ce344cd7.jpeg"
+          },
+          {
+            "id": 613,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 614,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "name": "Popliteal artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 615,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i12-vessel-0dcb278cd862443488503f04f8260f30",
+            "thumbnail": "https://media.sketchfab.com/models/0dcb278cd862443488503f04f8260f30/thumbnails/e6b932f1aa2a4ef1b98f657a1cf0813c/31afc0d076d341baa94deb3173f48b79.jpeg"
+          },
+          {
+            "id": 616,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 617,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 206,
+        "name": "Tibialis posterior artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 618,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i13-vessel-ba4083b9df8a49db9cb8241160f6b8ec",
+            "thumbnail": "https://media.sketchfab.com/models/ba4083b9df8a49db9cb8241160f6b8ec/thumbnails/89976f193ab4453bace3667345409d15/c1667f235e3d43efa735953d8e6ffaa7.jpeg"
+          },
+          {
+            "id": 619,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 620,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 207,
+        "name": "Tibialis anterior artery thrombosis",
+        "sketchfabs": [
+          {
+            "id": 621,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i14-vessel-6f7b599f1e4148d6bc10344da0ed525a",
+            "thumbnail": "https://media.sketchfab.com/models/6f7b599f1e4148d6bc10344da0ed525a/thumbnails/8c7cbad8789f405d97d5979be5a8436f/ebc7e88dada34f60a3a1052e063de354.jpeg"
+          },
+          {
+            "id": 622,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 623,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 208,
+        "name": "Fibularis artert thrombosis",
+        "sketchfabs": [
+          {
+            "id": 624,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/i15-vessel-c1c3adf883734cca8e65ee0fcf1b94ec",
+            "thumbnail": "https://media.sketchfab.com/models/c1c3adf883734cca8e65ee0fcf1b94ec/thumbnails/3ff12ff988c44fd6bd675c53a4060223/97f711b2d6c14b50aace4ae05dcf1355.jpeg"
+          },
+          {
+            "id": 625,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 626,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Varicose veins",
+    "types": [
+      {
+        "id": 209,
+        "name": "Vena saphena magna varicose",
+        "sketchfabs": [
+          {
+            "id": 627,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/j1-2-8c39fc6c51f24da8a831b635a0ee855c",
+            "thumbnail": "https://media.sketchfab.com/models/8c39fc6c51f24da8a831b635a0ee855c/thumbnails/1b5a0e252be34650ae0e01968201f164/4acf6edf6ca041b5bdeb5cc0746364a6.jpeg"
+          },
+          {
+            "id": 628,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 629,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 210,
+        "name": "Vena saphena parva varicose",
+        "sketchfabs": [
+          {
+            "id": 630,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/j1-2-8c39fc6c51f24da8a831b635a0ee855c",
+            "thumbnail": "https://media.sketchfab.com/models/8c39fc6c51f24da8a831b635a0ee855c/thumbnails/1b5a0e252be34650ae0e01968201f164/4acf6edf6ca041b5bdeb5cc0746364a6.jpeg"
+          },
+          {
+            "id": 631,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 632,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Thrombophlebitis",
+    "types": [
+      {
+        "id": 211,
+        "name": "Vena saphena magna thrombophlebitis",
+        "sketchfabs": [
+          {
+            "id": 633,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/k1-2-20eaedf918ff40d78ebe3769b241181e",
+            "thumbnail": "https://media.sketchfab.com/models/20eaedf918ff40d78ebe3769b241181e/thumbnails/991e2bd7a38b459392c12a5b3e788beb/b0e91bb8d52c453a8582f0101b6074a7.jpeg"
+          },
+          {
+            "id": 634,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 635,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 212,
+        "name": "Iliac vein thrombophlebitis",
+        "sketchfabs": [
+          {
+            "id": 636,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/k1-2-20eaedf918ff40d78ebe3769b241181e",
+            "thumbnail": "https://media.sketchfab.com/models/20eaedf918ff40d78ebe3769b241181e/thumbnails/991e2bd7a38b459392c12a5b3e788beb/b0e91bb8d52c453a8582f0101b6074a7.jpeg"
+          },
+          {
+            "id": 637,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 638,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Giant cell arteritis",
+    "types": [
+      {
+        "id": 213,
+        "name": "Giant cell arteritis",
+        "sketchfabs": [
+          {
+            "id": 639,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/l1-42265218bc4841c89581b51a6a2796a8",
+            "thumbnail": "https://media.sketchfab.com/models/42265218bc4841c89581b51a6a2796a8/thumbnails/4a548cacc32d49ad8d5af89004f747b5/34b586cf76244c7ca73a53143540d1f5.jpeg"
+          },
+          {
+            "id": 640,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 641,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Arteritis Takayasu",
+    "types": [
+      {
+        "id": 214,
+        "name": "Arteritis Takayasu",
+        "sketchfabs": [
+          {
+            "id": 642,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/m1-vessel-aac9dbf4bfc74afea5daeda901f5b166",
+            "thumbnail": "https://media.sketchfab.com/models/aac9dbf4bfc74afea5daeda901f5b166/thumbnails/863b356bd60d40e998072510398f5354/d1931614ae9a4cb6ad770151b58c5fc7.jpeg"
+          },
+          {
+            "id": 643,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 644,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Stenosis of abdominal aorta",
+    "types": [
+      {
+        "id": 215,
+        "name": "Stenosis of abdominal aorta",
+        "sketchfabs": [
+          {
+            "id": 645,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/o1-e7decffbee9c4d6b804458b64a944b4b",
+            "thumbnail": "https://media.sketchfab.com/models/e7decffbee9c4d6b804458b64a944b4b/thumbnails/f718a7329a7d4acbae605066974e6fce/98525d9df4514e18adfb3b3541621fb3.jpeg"
+          },
+          {
+            "id": 646,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 647,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Aberrant subclavian artery",
+    "types": [
+      {
+        "id": 216,
+        "name": "Type I",
+        "sketchfabs": [
+          {
+            "id": 648,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/p1-4c2535c6b64246f9bd76e25bb32d5dd3",
+            "thumbnail": "https://media.sketchfab.com/models/4c2535c6b64246f9bd76e25bb32d5dd3/thumbnails/3320930629204af5b99dfcfbad0901b2/b12327ab5b8b42d6ab093bd1c57ee49a.jpeg"
+          },
+          {
+            "id": 649,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 650,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 217,
+        "name": "Type II",
+        "sketchfabs": [
+          {
+            "id": 651,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/p2-f1718366eb8d480f9a452200d788735c",
+            "thumbnail": "https://media.sketchfab.com/models/f1718366eb8d480f9a452200d788735c/thumbnails/d98b7bb32c014c038bc376c81fd3d2c3/61fdf480a11f4227a427fe6a847a6233.jpeg"
+          },
+          {
+            "id": 652,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 653,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 218,
+        "name": "Type III",
+        "sketchfabs": [
+          {
+            "id": 654,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/p3-bd27816c49ba447586a19e1333bc0aa1",
+            "thumbnail": "https://media.sketchfab.com/models/bd27816c49ba447586a19e1333bc0aa1/thumbnails/b50c8cdac0b74652a9fa33172cf7329b/f11ba371d097494eb85996763144f4d7.jpeg"
+          },
+          {
+            "id": 655,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 656,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 219,
+        "name": "Type IV",
+        "sketchfabs": [
+          {
+            "id": 657,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/p4-6f39f94356e741de81e1c5e364f193bb",
+            "thumbnail": "https://media.sketchfab.com/models/6f39f94356e741de81e1c5e364f193bb/thumbnails/edf0daa14b8d40fe9828656d72de65ec/ec051b1313f244a8a9fdbc92ad324048.jpeg"
+          },
+          {
+            "id": 658,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 659,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Pathological tortuosity of common carotid artery",
+    "types": [
+      {
+        "id": 220,
+        "name": "S-shaped",
+        "sketchfabs": [
+          {
+            "id": 660,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/q1-56ec67ed16c249b0aa0b11d822b00b25",
+            "thumbnail": "https://media.sketchfab.com/models/56ec67ed16c249b0aa0b11d822b00b25/thumbnails/ab5512339346409c9f69bb229dc67383/1e01e77319df4779bed6fe8fa0f93761.jpeg"
+          },
+          {
+            "id": 661,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 662,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 221,
+        "name": "Looping",
+        "sketchfabs": [
+          {
+            "id": 663,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/q2-9170df4fc01249aead42d158f0ae01c5",
+            "thumbnail": "https://media.sketchfab.com/models/9170df4fc01249aead42d158f0ae01c5/thumbnails/066043848a874b7d8603919c9de6b5ac/d7ccb3eb13f84ec393a4c87799114c05.jpeg"
+          },
+          {
+            "id": 664,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 665,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 222,
+        "name": "Stenosis and tortuosity",
+        "sketchfabs": [
+          {
+            "id": 666,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/q3-9dfc36f7f5cf4823ac1f52feaae342d0",
+            "thumbnail": "https://media.sketchfab.com/models/9dfc36f7f5cf4823ac1f52feaae342d0/thumbnails/2a76b6766e5c40e3acdb66bc1c513d0b/6a8cbcc50f6340819613e31539f050b0.jpeg"
+          },
+          {
+            "id": 667,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 668,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      },
+      {
+        "id": 223,
+        "name": "Looping and stenosis",
+        "sketchfabs": [
+          {
+            "id": 669,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/q4-494725faf8764478ab8b375bc968e076",
+            "thumbnail": "https://media.sketchfab.com/models/494725faf8764478ab8b375bc968e076/thumbnails/abd842ca5fd94b91b0eb1cf0f22ac6cc/fc094ce4a8fd4f2db13616cfc107238c.jpeg"
+          },
+          {
+            "id": 670,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 671,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Pathological tortuosity of vertebral artery",
+    "types": [
+      {
+        "id": 224,
+        "name": "Pathological tortuosity of vertebral artery",
+        "sketchfabs": [
+          {
+            "id": 672,
+            "type": "model",
+            "link": "https://sketchfab.com/3d-models/r1-68aa57cb17084bf08a02df39b00f2a66",
+            "thumbnail": "https://media.sketchfab.com/models/68aa57cb17084bf08a02df39b00f2a66/thumbnails/5d9fdda23f134fe9a9889a099ffec742/b10a7269967b4276b93309b16407aa7f.jpeg"
+          },
+          {
+            "id": 673,
+            "type": "cut",
+            "link": "",
+            "thumbnail": ""
+          },
+          {
+            "id": 674,
+            "type": "hemo",
+            "link": "",
+            "thumbnail": ""
+          }
+        ]
+      }
+    ]
+  }
+]

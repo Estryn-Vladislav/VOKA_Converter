@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "nameEn": "Congenital heart defects",
+    "nameDe": "Angeborene Herzfehler",
+    "nameRu": "Врожденные пороки сердца",
+    "state": "Available",
+    "icon": ""
+  },
+  {
+    "id": 1,
+    "nameEn": "Acquired heart diseases",
+    "nameDe": "Erworbene Herzfehler",
+    "nameRu": "Приобретенные пороки сердца",
+    "state": "Available",
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "nameEn": "Vascular pathology",
+    "nameDe": "Gefäßpathologie",
+    "nameRu": "Сосудистая патология",
+    "state": "Available",
+    "icon": ""
+  }
+]
